@@ -1,0 +1,15 @@
+POST /_/TranslateCommunityUi/data/batchexecute?rpcids=BXp5wf%2CLAPnGd&f.sid=7966666313897388893&bl=boq_translate-community-ui-server_20191202.13_p0&hl=ru&soc-app=1&soc-platform=1&soc-device=1&_reqid=176472&rt=c HTTP/1.1
+Host: translate.google.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://translate.google.com/
+X-Same-Domain: 1
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+Content-Length: 307
+DNT: 1
+Connection: close
+Cookie: NID=193=pNr6Kicb-PXSaV6VCfPnv1ptz6qsmHMA4jqNvs99m0cb9xtmmuJy0BW0dYIglUbYa3fwpUvFNRcekiYWTZla_P_Ma1rPXkqY3PrPrp-eLDwZbOvG0CNjp1kOTkS9kM20Vv93ZMaaCAt2463L0XasaJav3Z5NtcFT9tTGj25frpJfFTJZgyQ33fmg8qcnDpFntW1t8tCBmJvKtApVqSQGGVlHWpQX-w7dKCajY25u2B2q6cw8L-RBt9xF_V7-HhY7Qfwo3ALSkJeDhO9aoX4ZICKtczDkP9OzA7i_ODC66Z3Iyb0; 1P_JAR=2019-12-7-18; SID=qwd9TIFUnd8MWnGJWKcUrmP41Z7fiHI8w2ivoDQ_BhVD9E8c1KM3H2Hd9L4Ak-dPgRCiYw.; HSID=AgY8lnQIJD0SBMG8w; SSID=Ad8VoxAlVJFo8q-Uq; APISID=C_FD2UwVRvZOExtq/AmF0g8v6xB3tpV9jW; SAPISID=FvswlekTQib_9VEM/A8wpy563GErP3Jih-; SIDCC=AN0-TYs47u1s90QVZh8OnB6hNuuV73Gstjb52oy5Z-rwNJlZ34mFeZhIvk9iClc-O1xWzkh9sQ; SEARCH_SAMESITE=CgQIrY4B; OGPC=19014993-1:; ANID=AHWqTUk5t1PaeMYo9d_KDCB8V2v0eObcl6YDlUiLV-FHKrq0BliQChSnMaPGoC98; _ga=GA1.3.11323796.1575742469; _gid=GA1.3.1118682192.1575742469
+
+f.req=%5B%5B%5B%22BXp5wf%22%2C%22%5B%5B%5Bnull%2C%5C%22ru%5C%22%5D%2C%5Bnull%2C%5C%22en%5C%22%5D%5D%2Ctrue%2C%5C%22WebUItest%5C%22%2C%5B%5C%22ru%5C%22%5D%5D%22%2Cnull%2C%221%22%5D%2C%5B%22LAPnGd%22%2C%22%5B%5B%5C%22ru%5C%22%5D%5D%22%2Cnull%2C%223%22%5D%5D%5D&at=AGohucA-A4ME6femuZFGkxZBkRw_%3A1575742470305&

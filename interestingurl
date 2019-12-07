@@ -1,0 +1,12 @@
+GET /?k[]=43437:uniques_instantly[domain:habr.com,url:%2Fru%2Fpost%2F440240%2F,page:Google%20Safe%20Browsing%20%E2%80%94%20%D0%BF%D1%80%D0%B8%D1%88%D0%BB%D0%B0%20%D0%B1%D0%B5%D0%B4%D0%B0%20%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0%20%D0%BD%D0%B5%20%D0%B6%D0%B4%D0%B0%D0%BB%D0%B8,author:bootracer,language:ru,category:h_infosecurity%7Cf_develop,type_article:simple,pub_date:Fri%2C%2001%20Mar%2019%2017%3A21%3A54%20%2B0300,user_agent:Mozilla%2F5.0%20(X11%3B%20Ubuntu%3B%20Linux%20x86_64%3B%20rv%3A69.0)%20Gecko%2F20100101%20Firefox%2F69.0,device:desktop,browser_version:Firefox%2069,browser:Firefox,referrer:duckduckgo.com,first_source:duckduckgo.com,depth:1,user_type:new,user_id:7596fac3f.cd5e7199a_1575742460160,session_id:523f2ba14.89e9eb85d_1575742460168,cdn_version:0]&s=e5e38500a3b264820b5f5355a6ddfd07&1575742460169 HTTP/1.1
+Host: tt.onthe.io
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://habr.com/ru/post/440240/
+Origin: https://habr.com
+DNT: 1
+Connection: close
+
+

@@ -1,0 +1,16 @@
+POST /ping.rpc HTTP/1.1
+Host: servicelanevsc.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/x-gwt-rpc; charset=utf-8
+X-GWT-Permutation: D3B3582A7E5D988F2C227B6BB823D54E
+X-GWT-Module-Base: https://servicelanevsc.com/
+Content-Length: 408
+DNT: 1
+Connection: close
+Referer: https://servicelanevsc.com/login.do
+Cookie: JSESSIONID=FFCDB602F32D67E2AFD79A5F355ABDB3; AWSELB=2949B7A30EDF36E69C27EA8D79D18DF2875D431C7ED41A92384104B67D80AAA4C0334537DC755F8F0CCAAC65E87E44F398BCB2EF0A02CABD40FFEA3454BBE1E63CECFCD3071FD4BDD644CA118E1ED58A0DEFD81E7A
+
+7|0|13|https://servicelanevsc.com/|0CCEBAE7BB11432D1521F996A0DC640A|org.blueshift.gwt.client.data.DataService|ping|java.lang.String/2004016611|org.blueshift.gwt.client.data.DataMap/2451557420|LoginModule|ua|mozilla/5.0 (x11; ubuntu; linux x86_64; rv:69.0) gecko/20100101 firefox/69.0|location|https://servicelanevsc.com/login.do|last|java.util.Date/3385151746|1|2|3|4|2|5|6|7|6|3|8|5|9|10|5|11|12|13|W7hUPzO|

@@ -1,0 +1,15 @@
+POST /j_acegi_security_check HTTP/1.1
+Host: 109.69.200.68
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 211
+DNT: 1
+Connection: close
+Referer: http://109.69.200.68/login?from=%2FasynchPeople%2F
+Cookie: JSESSIONID.8a7bbae7=lk0v8lh71cgv12jsi0zzwcg04; screenResolution=1920x1080
+Upgrade-Insecure-Requests: 1
+
+j_username=seq&j_password=asdad&from=%2FasynchPeople%2F&json=%7B%22j_username%22%3A+%22seq%22%2C+%22j_password%22%3A+%22asdad%22%2C+%22from%22%3A+%22%2FasynchPeople%2F%22%7D&Submit=%D0%B2%D0%BE%D0%B9%D1%82%D0%B8

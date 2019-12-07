@@ -1,0 +1,14 @@
+POST /bidder/adfox/bids HTTP/1.1
+Host: adfox-c2s-ams.creativecdn.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain
+Content-Length: 594
+Origin: https://pikabu.ru
+DNT: 1
+Connection: close
+Referer: https://pikabu.ru/story/sotsialnyiy_yeksperiment_7089659
+
+{"places":[{"id":"adfox_300x600_1","placementId":"nAuoutQkhMRdJo5jPZTE","sizes":[[300,600]]},{"id":"adfox_300x600_2","placementId":"XA3rcocGjX9Bly6JOXPR","sizes":[[300,600]]},{"id":"adfox_context_menu_1","placementId":"QX63YQ80IywZOiCSFhor","sizes":[[300,600]]},{"id":"adfox_context_story_1","placementId":"YuZTXiMlvWr5KubRPFya","sizes":[[600,300],[700,300]]},{"id":"adfox_feed_1_1","placementId":"ncKMLtqzYoS2u7HGdmdv","sizes":[[700,400]]},{"id":"adfox_feed_1_2","placementId":"ncKMLtqzYoS2u7HGdmdv","sizes":[[700,400]]}],"settings":{"currency":"RUB","windowSize":{"width":1280,"height":618}}}
