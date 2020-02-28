@@ -1,0 +1,14 @@
+POST /acs_01b/pa?id=L3A01Xlkc--IGIe-PJaEt7UNxSw.VA HTTP/1.1
+Host: acs3.sbrf.ru
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 632
+DNT: 1
+Connection: close
+Referer: https://pay.vbrr.ru/payment/acsRedirect.do?orderId=3b0396b3-c269-7db4-a2cf-7dce0007e0fe
+Upgrade-Insecure-Requests: 1
+
+MD=3b0396b3-c269-7db4-a2cf-7dce0007e0fe&PaReq=eJxdUl1zgjAQ%2FCsOrx1NiKDgnHG0tKNtRaf14xnCqTiKGkCxv76JYrXN0%2B3msne3F%2BgU203liDKNd0nbMGvUqGAidlGcLNvGdPJadYwOh8lKInpfKHKJHIaYpsESK3HUNkI7cgOxoFW3GTaqlhOJqlO3VLRAYVFXmHbIDA7j7iceOJSFuKpTY0BuUClKsQqSjEMgDr2Bzy1q26wJpISwRTnwFKuPq%2FgrhiTYIp%2FHm6iHUsaY1mQO5EKC2OVJJs%2B8YdWB3ADkcsNXWbZPW4T8f6fvgNxbGec6SpVWEUfc%2Fxa273VNf%2F1ijryBNZos6XC9PI28YRuIzoAoyJAzyihlzKmYVovSFnOAXHgItroJbqsJ1FxXAHtdo%2Ft488iA8luqddymuCHAYr9LUGUoE39jIPeOn%2FvaSpEpk7qRMBk9vfnFutjMpvL89B5%2BHP3%2BfDa3tMGXJK0YK4MYo%2B5FUgMgWoaUuyPl2lX05zv8AFX4vX0%3D&TermUrl=https%3A%2F%2Fpay.vbrr.ru%2Fpayment%2Frest%2Ffinish3ds.do
