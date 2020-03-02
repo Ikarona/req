@@ -1,0 +1,14 @@
+POST /Challenge/ThreeDSBrowserChallenge/ HTTP/1.1
+Host: 3ds.yamoney.ru
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 673
+DNT: 1
+Connection: close
+Referer: https://platezh.vtb24.ru/payment/merchants/eldorado/payment_ru.html?mdOrder=cb896ad1-6838-7183-8534-f1f10007acd8
+Upgrade-Insecure-Requests: 1
+
+MD=cb896ad1-6838-7183-8534-f1f10007acd8&PaReq=eJxdUl1zgjAQ%2FCsO75jwEQTniKNFR6cVHKt22jeEVOkIaIBq%2BfVNFGrbp9ze3ezt7QUGl%2FTQ%2BWS8SPLMVbQuVjosi%2FI4yXausl5NVFsZUFjtOWPeM4sqzijMWVGEO9ZJYlexCCaGpcfqe4%2F0VNMxLdUx7Ejdbh3D2JIes0isUFgMl%2BxEoRlExZyuDqiFgpFH%2BzArKYTRaTTzKdEtYjuAGggp4zOP6j2HmARrgG4YsjBldPzkBcuhFwC6QojyKiv5F7VMA1ALoOIHui%2FLY9FH6Hw%2Bd9khznkY511eAZJFQHcVi0pGhSC7JDH167UWeDtzXo%2FFO7%2F4H%2BM68NbYr3cuINkBcVgyqmMdYwPrHY30sdHHBNA1D2EqVVCNOA7GWGx1w3CUY4b%2Fir%2BTIAzn4h7tMi0CdjnmGRMdwsWfGNBd98NUehmVwqVNWJuvx%2BmLgYOJXT%2B%2BjTapLZS70t1rg2RLhEe6Jq1tACBJgZrDoebmIvrzF74B4Ba6Cg%3D%3D&TermUrl=https%3A%2F%2Fplatezh.vtb24.ru%2Fpayment%2Frest%2Ffinish3ds.do%3Flang%3Dru
