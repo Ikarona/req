@@ -1,0 +1,14 @@
+POST /Challenge/ThreeDSBrowserChallenge/ HTTP/1.1
+Host: 3ds.yamoney.ru
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 921
+DNT: 1
+Connection: close
+Referer: https://ishop.multicarta.ru/MPI/TransactionProcessing.jsp
+Upgrade-Insecure-Requests: 1
+
+PaReq=eJxVUltP6zAM%2FisT72vSpO0u8iIVWsSEyrrSoyMeQxbWInpZknL79SRlPXAeIvmznc%2F%2BbENZKSmTeykGJRlkUmt%2BlLP6sLmIoicaRCs8lyGh8yAKVvPlEw%2Fmi8dVtCQBCSkWFwzyuJAnBq9S6bprme9hjwCaoGVUouKtYcDF6XJ7x0KyoP4C0BlCI9U2YYTgtMDYDwB9O6DljWT5Lsm397fxLN9d3ZTxrLgGNAZAdENr1AeLAgpoAjCoF1YZ0%2Bs1QrWuut5rhhdTC64M99SAsnyLCqn7rtUyV52wcuv26D3rHpD7C%2Bin33xwlra13usDy8o%2FQfaZ%2BrvyGN4lKc3K%2BC1LxrcB5DLgwI1kBBOMKSYzf7Gmy7UTNPqBN65JRolHQ6v%2BG0HvisRTyEV%2Be8BuRclWTDInBPLdSpA2w476nw3op%2BWrGzdwYewku7%2BnbtWSukob87A%2FJQW5TS%2F3m41bwZjg2Go7PeJjf6RzAJCjQOftovNhWOu%2Fg%2FkCXy%2B7Qw%3D%3D&MD=N0JFOThGQkI1RUM3OEU4MTYzNkYxM0U2QTE4MDRDRTUzOEU2QjUxODU5QkQwMDVBOUJFMkNFMTI1OUI5OEExMkRGRUY2RENBQjNEQTUyMkU1ODhDMDZCRjVBRTBBQTE1NTZEREZBNTc1QzJBRDhGMTMzOEMwNzAxODE0NTRDODBCNzExQjUyNEE0NzQyNTI1RDNFOThCNjIxMEU5ODVEMkVFMUM3NDc3ODM5NDA3OTMyNkVBMzEwN0Y0MUM2MUJFMDY3N0U2QzczNDQ5MUM3Ng%3D%3D&TermUrl=https%3A%2F%2Fishop.multicarta.ru%2FMPI%2FResponseProcessing.jsp
