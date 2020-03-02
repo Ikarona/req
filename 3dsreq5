@@ -1,0 +1,15 @@
+POST /Challenge/ThreeDSBrowserChallenge/ HTTP/1.1
+Host: 3ds.yamoney.ru
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 811
+DNT: 1
+Connection: close
+Referer: https://payments353.paysecure.ru/pay/confirm3ds.cfm?CFID=44c4c85b-7e7f-47a9-a3d9-cbcaba47e609&CFTOKEN=0&CFSID=NSZNIzAjKFc%2FWT1bWlc6UCtbTlcnV00wNCE4IS8K
+Cookie: .AspNetCore.Antiforgery.7RL-SCTbVrU=CfDJ8PGBjd49LKhFmLpXgJUicAVfGJzCZpgOLmfIJCAOa8-FVGRlzzb_keEXCu_GtfvMXx_ALTBg-ZxnQiK4mha3oxZzufeqruregUmbiFTkwYlWGehLIAwMOGGc0wBl8xOCrGxdJwdQPC9N2EPe7CkZirk
+Upgrade-Insecure-Requests: 1
+
+PaReq=eJxdkttyozAMhl%2BF4Z7YgCEhI9zJYdtmJun2QNvZS8doE2Y51UBJ8vRr02S77Z0%2BWaNf%2BmW4OhS59Y6qyaoytt0RtS0sZZVm5S62n5NrZ2JbTSvKVORVibF9xMa%2B4pDsFeLyCWWnkMMGm0bs0MrS2K6F3I6DcSTR8bZi4jDKImfiT5jDtpLJIKVMRMzmcD97xDcOZ22upUcekAvqnkruRdlyEPJtvrrjAXNDSoGcEQpUqyVPfJ9SNxoD%2BWAoRYF8I9Q75tZ6vQAyJEBWXdmqIw%2BZD%2BQC0Kmc79u2bqaE9H0%2FKrKRrAqiOiDmCcjnFPediRrd6pClfLPc36yTfP5An%2Fu75er0M0kXj39W7kOyiYGYCkhFi9yjHqU%2B9Sw3nAbu1NdzDnkQhZmB%2B2EU0WGrD4bayMy%2BPf6fBG250ie6rHIhwEOtL6QrtIv%2FYkixkbwWx0KT1jYE5HOXxa3xV7bauafwlJ%2Bug5vbH%2BFLLl9%2Fz6pfi20fx8bxocAoZNo1z6XuIGEAiGlBzsck55%2Bgoy8%2F5C%2BGlMkK&TermUrl=https%3A%2F%2Fpayments353.paysecure.ru%2Fpay%2Fpay3ds.cfm%3FCFSID%3DNSZNIzAjKFc%252FWT1bWlc6UCtbTlcnV00wNCE4IS8K%26CFID%3D44c4c85b-7e7f-47a9-a3d9-cbcaba47e609%26CFTOKEN%3D0&MD=NSZNIzAjKFc%2FWT1bWlc6UCtbTlcnV00wNCE4IS8K
