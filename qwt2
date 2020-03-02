@@ -1,0 +1,15 @@
+POST /AdminService HTTP/1.1
+Host: 50.16.43.153
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.9 Safari/537.36
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/x-gwt-rpc; charset=utf-8
+X-GWT-Permutation: 8A9047DEDBCCACCF7A16D0589BEDC98A
+X-GWT-Module-Base: https://50.16.43.153/
+Content-Length: 141
+DNT: 1
+Connection: close
+Referer: https://50.16.43.153/
+
+7|0|4|https://50.16.43.153/|3A7C9EE0FF99ACC765C63CDAA2A984A3|com.dealertrack.ebiz.admin.shared.service.AdminService|getThemeConfig|1|2|3|4|0|
