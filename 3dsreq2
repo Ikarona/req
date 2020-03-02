@@ -1,0 +1,14 @@
+POST /acs_08b/pa?id=L1A08Xl0XVBZ9C-r1PRgW2YmkgA HTTP/1.1
+Host: acs1.sbrf.ru
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 673
+DNT: 1
+Connection: close
+Referer: https://money.yandex.ru/payments/external/confirmation?orderId=25ef2af5-000f-5000-a000-159b18cdb46a
+Upgrade-Insecure-Requests: 1
+
+MD=e2971686-0c9c-753c-aaa6-c06100151ccb&PaReq=eJxVUttymzAQ%2FRUPj50BCXExeNbKOKWp84Bjp2SmfQRpa2iDIFxq%2FPeRiN0ketpzdufs7lnBzVQ%2FL%2F5h11eNWluuQ60FKtHISh3X1lN2Z0fWDYes7BCTHyjGDjmk2Pf5EReVXFvLKCyK36G0i6WIbV%2FSwI5QULsIqYuxRCYCtDjsN4%2F4wuHSiOs%2BDgNyhVqxE2WuBg65eLm933GfLUNKgVwg1NjdJ3wZuVQ%2FN4gCnXvjQOU18l%2FpF6l6uy%2BbFsjMgGhGNXRnHvoekCuAsXvm5TC0K0JOp5NTNwrPzjlXEienG4GYPJD3efajiXqtN1WSp9nR22UHN02%2BuQ9JOu2yv1P653DeJYc1EFMBMh%2BQM8oo9ShbuP6KBSvmA5l5yGszCI%2FjeN7uDUFrmmw%2BpT5SoG3v9FWuu1wR4NTq%2BXWF9vJ%2FDOR95q9b46gYtE%2Bb4rYMA%2BJ5df6zHQ%2Bum2332%2B%2Fhth3uMuPzXGQUK20TYzSeJQ0AYmTI5YTkcn0dffoVrwaRvsg%3D&TermUrl=https%3A%2F%2Fpaymentcard.yamoney.ru%2Fgates%2Fsberbank3ds
