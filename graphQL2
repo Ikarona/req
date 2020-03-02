@@ -1,0 +1,14 @@
+POST /featured-companies/graphql HTTP/1.1
+Host: xapi.supercharge-srp.co
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.9 Safari/537.36
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://hk.jobsdb.com/hk
+content-type: application/json
+Origin: https://hk.jobsdb.com
+Content-Length: 429
+DNT: 1
+Connection: close
+
+{"query":"{\n    featuredCompanies(country: \"hk\",locale: \"en\",limit: 6,isRandom: true){ \n      premiumAgencies {\n        id,\n        title,\n        url,\n        imagePath,\n        imageWidth,\n        imageHeight,\n        imageTypeId\n      },\n      premiumEmployers{\n        id,\n        title,\n        url,\n        imagePath,\n        imageWidth,\n        imageHeight,\n        imageTypeId\n      }\n    }\n  }"}
