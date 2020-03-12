@@ -1,0 +1,26 @@
+POST /service_ajax?name=signalServiceEndpoint&signal=GET_UNSEEN_NOTIFICATION_COUNT HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.youtube.com/watch?v=D_KfgdsFkPc
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20200311.02.00
+X-YouTube-Device: cbr=Firefox&cbrver=69.0&cos=X11
+X-Youtube-Identity-Token: QUFFLUhqbV9FYk9zeDMyVXFtdWoxWFpBaXhEajFhc1ctZ3w=
+X-YouTube-Page-CL: 300058219
+X-YouTube-Page-Label: youtube.ytfe.desktop_20200310_2_RC0
+X-YouTube-Variants-Checksum: fbae636098ee8dd314ef2f15f039f4a1
+X-YouTube-Utc-Offset: 180
+X-YouTube-Time-Zone: Europe/Moscow
+X-YouTube-Ad-Signals: dt=1584042964347&flash=0&frm&u_tz=180&u_his=3&u_java&u_h=1080&u_w=1920&u_ah=1047&u_aw=1920&u_cd=24&u_nplug=1&u_nmime=2&bc=29&bih=927&biw=1908&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1920%2C1023%2C1920%2C927&vis=1&wgl=true&ca_type=image
+X-SPF-Referer: https://www.youtube.com/watch?v=D_KfgdsFkPc
+X-SPF-Previous: https://www.youtube.com/watch?v=D_KfgdsFkPc
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 680
+DNT: 1
+Connection: close
+Cookie: PREF=f5=30000&al=ru&cvdm=grid&f1=50000000; VISITOR_INFO1_LIVE=Bd9doKhAcik; SID=uQd9TM0GMssYkj99BvyBo8VU8VAbkux_UeYgoZUG5WNdR8x4UYd2dc7MXGp_mtlzmd5toA.; HSID=Am8nl6oXcwgDUjVFR; SSID=A6XeUOw5tVKjV6lwE; APISID=v-MGCgnrLe9BJ1uu/Awy52XVYBY3W-ZS13; SAPISID=5y9AwwD1siG-Vbbt/AJwL58LO95WIuJMz6; LOGIN_INFO=AFmmF2swRQIgfNyA9hicpOP194dyiWAW4CPJ8QU51XzW456hf6VImq4CIQCI_4Z_DVs_sqtoDxjkzXELdcCOup_MuNDV2paTQ9iQuQ:QUQ3MjNmek42WnI2WHRuRG1XNFo5SkY3MTZkbG9ZOWJ5WTB3RGZ3clBWRUdEMUFoSlZkTnB2dHluM2REVUZMOTZmdFF0Y2loZHR2V3dOZWxQcllVUm9CcFA5dGRPLVRCQy04OUo2ejRTTGRSajh2cG1UNkVSOThJbnB5SW5uSjhudzhLQ2M0S1I5Q296NHpVN0xlenI3R3RLcTI0MUFyY2YzTmk0djFWSElOTDVpQU9FODk2aHhj; SIDCC=AJi4QfFNGXn4dgboywqVYmKMuyhv5dtRuzWnXV7Xsc9UfmR311RCOJ7yM8dFUCFs1mByvQjOMy-t; __Secure-3PSID=uQd9TM0GMssYkj99BvyBo8VU8VAbkux_UeYgoZUG5WNdR8x4gvBDhBeT99pnRJvJchnByg.; __Secure-3PAPISID=5y9AwwD1siG-Vbbt/AJwL58LO95WIuJMz6; __Secure-HSID=Am8nl6oXcwgDUjVFR; __Secure-SSID=A6XeUOw5tVKjV6lwE; __Secure-APISID=v-MGCgnrLe9BJ1uu/Awy52XVYBY3W-ZS13; YSC=MY696SVF6nM; wide=0; ST-1crolko=csn=0pNqXp-uI9TD7QS1hLDwAw&itct=CAkQovoBGAIiEwj6nuTw25XoAhWVUZsKHUX8B0A%3D
+
+sej=%7B%22clickTrackingParams%22%3A%22CAkQovoBGAIiEwj6nuTw25XoAhWVUZsKHUX8B0A%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fservice_ajax%22%2C%22sendPost%22%3Atrue%2C%22apiUrl%22%3A%22%2Fyoutubei%2Fv1%2Fnotification%2Fget_unseen_count%22%7D%7D%2C%22signalServiceEndpoint%22%3A%7B%22signal%22%3A%22GET_UNSEEN_NOTIFICATION_COUNT%22%7D%7D&csn=0pNqXp-uI9TD7QS1hLDwAw&session_token=QUFFLUhqbEFyQkxFNUhCNDZ5V2VyRzVHMUpSbDBlZjFZZ3xBQ3Jtc0ttbEdZWDNLdVIwaFVZd3NvSGNsdUE2V3JYV2pGdVU0OVAxQXBzMGRyZUlOWU9TaWF3cDlWODdPWWRtT1Rldjl0cHcxc2FWTUE0azdaTjRKT0ttWTZCTlA3QmdrVFRwdUFZNU1JVWhSZmFoaUpMR1AxcWwyMFNXUF94MWRlSHN5RGxTakpvaXk1VFQ5WXlUTy1tM2lEaEI0Y3VJTFE%3D
