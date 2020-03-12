@@ -1,0 +1,19 @@
+POST /ajax/bz HTTP/1.1
+Host: www.instagram.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-CSRFToken: cx4jM7FB685JhWB7ERwMmyLPrJcFfhOJ
+X-Instagram-AJAX: f87b0d040435
+X-IG-App-ID: 936619743392459
+X-IG-WWW-Claim: 0
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Content-Length: 771
+DNT: 1
+Connection: close
+Referer: https://www.instagram.com/akvaparkkvakva/
+Cookie: ig_did=6F8A34B0-D732-493E-A443-C15702946AB7; csrftoken=cx4jM7FB685JhWB7ERwMmyLPrJcFfhOJ; mid=Xjq8-AAEAAHSxJWxz8fYKBLa-oKh; rur=PRN; urlgen="{\"85.89.127.33\": 29233\054 \"213.87.128.199\": 8359}:1jCUF9:4UsKRa6Bj1q5sFUfRMD0lxBVZs8"
+
+q=%5B%7B%22page_id%22%3A%228f8t0z%22%2C%22app_id%22%3A%22936619743392459%22%2C%22device_id%22%3A%226F8A34B0-D732-493E-A443-C15702946AB7%22%2C%22posts%22%3A%5B%5B%22pigeon_failed%22%2C%7B%22event_count%22%3A29%7D%2C1584044146833%2C0%5D%2C%5B%22ods%3Aincr%22%2C%7B%22key%22%3A%22web.falco.send_failed.events%22%2C%22count%22%3A12%7D%2C1584044147916%2C0%5D%2C%5B%22ods%3Aincr%22%2C%7B%22key%22%3A%22web.falco.send_failed.batches%22%7D%2C1584044147916%2C0%5D%2C%5B%22ods%3Aincr%22%2C%7B%22key%22%3A%22web.falco.send_failed.events%22%2C%22count%22%3A12%7D%2C1584044152939%2C0%5D%2C%5B%22ods%3Aincr%22%2C%7B%22key%22%3A%22web.falco.send_failed.batches%22%7D%2C1584044152939%2C0%5D%5D%2C%22trigger%22%3A%22pigeon_failed%22%2C%22send_method%22%3A%22ajax%22%7D%5D&ts=1584044156811
