@@ -1,0 +1,12 @@
+GET /magazin/product/nokia-6-1-32gb-black-copper?_openstat=bWFya2V0LnlhbmRleC5ydTtOb2tpYSA2LjEgMzJHQiBibGFjayZjb3BwZXI7SVJwdHJmTnVtVW52R1kwR0tRVEJVZzs&ymclid=15833455256568108679400001 HTTP/1.1
+Host: foto-phone.ru
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://away.vk.com/
+DNT: 1
+Connection: close
+Cookie: stats=1; referer=bWFya2V0LnlhbmRleC5ydTtOb2tpYSA2LjEgMzJHQiBibGFjayZjb3BwZXI7SVJwdHJmTnVtVW52R1kwR0tRVEJVZzs; referer_referer=http%3A%2F%2Faway.vk.com%2F; referer_uri=%2Fmagazin%2Fproduct%2Fnokia-6-1-32gb-black-copper%3F_openstat%3DbWFya2V0LnlhbmRleC5ydTtOb2tpYSA2LjEgMzJHQiBibGFjayZjb3BwZXI7SVJwdHJmTnVtVW52R1kwR0tRVEJVZzs%26ymclid%3D15833455256568108679400001; referer_time=1584041557; referer_type=banners; s3_user_token=hU1gD8M3DjJW; custom-fields=0; onc-53f1801072d22cb7250000e8-user-id=5e5fef87b3bbcbb11d8b692e; onc-53f1801072d22cb7250000e8-user-hash=f6256c9cf328c79547b088e1445a12e6; PRODUCT_RECENTLY_VIEWED_SHOP2_3147021=%5B2352756811%5D; cart_opened=1; sh2lastfid=790427421
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
