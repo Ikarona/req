@@ -1,0 +1,15 @@
+POST /api/1/stats/frontend/fps HTTP/1.1
+Host: www.avito.ru
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.avito.ru/sevastopol/transport
+Content-Type: text/plain;charset=UTF-8
+Origin: https://www.avito.ru
+Content-Length: 596
+DNT: 1
+Connection: close
+Cookie: u=2jzeo1jv.noj76p.gcccy064k4; buyer_location_id=621585; buyer_selected_search_radius4=0_general; sx=H4sIAAAAAAACA02NwQ6CQAwF%2F6VnD91Q4cnfmBUbbNwm4lIi4d%2Fdi4nHOczMTsPkz1ku5doZY3F3dQSUlcadVhrppaXIvG2p91iQXS2cA4CJKjKdaKIxnSEp9alLR%2BNSq3zm27CaMi%2BS2SHNsF%2FyXuvbH%2B1bOQcEbWmuMOOQcP1LDh2jP44vS1ENgKcAAAA%3D; __cfduid=dda88415a94c5c8f5bc77f16ab952418f1582890677; buyer_tooltip_location=0; luri=sevastopol; sessid=05760834ef42e5d062646f417568ef83.1584029732; f=5.0c4f4b6d233fb90636b4dd61b04726f147e1eada7172e06c47e1eada7172e06c47e1eada7172e06c47e1eada7172e06cb59320d6eb6303c1b59320d6eb6303c1b59320d6eb6303c147e1eada7172e06c8a38e2c5b3e08b898a38e2c5b3e08b890df103df0c26013a7b0d53c7afc06d0b2ebf3cb6fd35a0ac7b0d53c7afc06d0b0df103df0c26013ac7f279391b0a395990d83bac5e6e82bd59c9621b2c0fa58fd50b96489ab264ed3de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe23de19da9ed218fe2c772035eab81f5e10d4821a4a6e256721a5ffd90fa392a54704eca075b54ee5463246388c0a66d5901bc32796e7a2593aaaf3e371937286330b016c035941205d21ab7cd585086e0b86f1b8aaa5acad607ce30aedaa83a5d343076c04c14cfd09d9b2ff8011cc827cbf1a5019b899285ad09145d3e31a569f2529fd23eed2d04b6c9122eda0b0e5771e7cb57bbcb8e0fa5f76aa56199c549fd80b91a989f335df5f04e453282b6be8012e98924060d02; no-ssr=1; _nfh=e77effbdc30541e140b1ee77ff345c27; v=1584086677; dfp_group=96; buyer_selected_search_radius0=200
+
+{"data":{"event":"load","interval":1392,"avgFps":7.902298850574714,"avgFrame":126.54545454545455,"avgBigFrame":216.57920799999994,"minFrame":83.49604100000033,"percentile90Frame":649.6175010000002,"percentile99Frame":649.6175010000002,"percentile50Frame":99.49040499999956,"percentile10Frame":83.49604100000033,"updates":11,"biggestFrame1":649.6175010000002,"biggestFrame2":166.78582499999993,"biggestFrame3":99.49040499999956,"bigFrameSummary":1082.8960399999996,"bigFrameCount":5},"meta":{"connection":{"type":"unknown","speed":{"median":0,"average":0}},"page":"vertical","platform":"desktop"}}
