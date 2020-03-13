@@ -1,0 +1,11 @@
+POST /?site_d={%22ready%22:1661,%22load%22:2231,%22connect%22:0,%22ttfb%22:11,%22basePage%22:517,%22DOMcontentLoaded%22:1683,%22fullLoad%22:2227,%22lazy%22:false,%22zero%22:false,%22width%22:1908} HTTP/1.1
+Host: sstat.tildacdn.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Origin: https://habr.com
+DNT: 1
+Connection: close
+Referer: https://habr.com/ru/article/488350/
+Content-Length: 0
