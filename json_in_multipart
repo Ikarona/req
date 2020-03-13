@@ -1,0 +1,78 @@
+POST /ajax/bz HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.facebook.com/v3.2/dialog/oauth?display=popup&response_type=code&client_id=298127253655969&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=public_profile%2Cuser_location%2Cuser_hometown%2Cemail%2Cuser_likes%2Cuser_birthday&state=token%3DUW9Rqq8c27f4HP8r4ohifIYohfWGnBzllq_mV5Z20M0XYNgaRzSriV3BSrKSmvOoCdfj_Jw8bzKoKlw85fax_9GtmVmk%26reg%3Dhttps%253A%252F%252Fhh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fhh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fhh.ru%252Faccount%252Fconnect%252Fresult%26system%3DFB%26mergeOAuth%3Dfalse%26domain%3Dhh.ru
+Content-Type: multipart/form-data; boundary=---------------------------5374336481460188612463272906
+Content-Length: 4719
+DNT: 1
+Connection: close
+Cookie: fr=1kkIxLC7xTAm0NfIt.AWUEGU0Xd1pg-wLSCHgacVPPAIs.Bd9__P.7z.AAA.0.0.BeXTgu.AWVwXe1F; sb=z__3XUSHc1scVH-o291-JWEy; datr=z__3XbJzdv6nvpW54mYJI_MU; c_user=100007853919504; xs=11%3A1bfxDTe6cIBuRA%3A2%3A1576533969%3A1677%3A15736; presence=EDvF3EtimeF1583167535EuserFA21B07853919504A2EstateFDutF1578077968844CEchF_7bCC; spin=r.1001835461_b.trunk_t.1584085351_s.1_v.2_
+
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="ts"
+
+1584085352162
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__a"
+
+1
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__beoa"
+
+0
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__comet_req"
+
+0
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__csr"
+
+
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__dyn"
+
+7xe6E5aU7ibx679p60DU98nwgU6C7UW3q327E3rw5ux60Vo1upE4W0OE2WxO0So5u0umUS1vw5zw78wdK
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__hsi"
+
+6803594769452200428-0
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__pc"
+
+PHASED:DEFAULT
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__req"
+
+2
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__rev"
+
+1001835660
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__s"
+
+cxndjz:f9lnvn:w6tpi2
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="__user"
+
+100007853919504
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="dpr"
+
+1
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="fb_dtsg"
+
+AQFZbD-Gi7k0:AQGy9kvCmeeZ
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="jazoest"
+
+22049
+-----------------------------5374336481460188612463272906
+Content-Disposition: form-data; name="q"
+
+[{"user":"100007853919504","webSessionId":"cxndjz:f9lnvn:w6tpi2","app_id":"256281040558","posts":"lBfwZltbImdrMl9leHBvc3VyZSIseyJpZGVudGlmaWVyIjoiMTA3MzUwMCIsImhhc2giOiJBVDRvUHg4Tk5BVDl3b0N5In0sMTU4NDA4NTM1MTE1MiwwLDUwXSxbInJlcXVpcmVfY29uZF8RYBxfbG9nZ2luZ0JoAPBWQWEwcjF3dW9zWVBabERvVWNSczNKaTE3a0RNbllwQzd5S05CaWtybUtVYnh2YXNDLW9oWFQ4NmhtTHFTdzMxbjBJWVhPMnU1QjBHbkNlTS1NdXFJQk9zOp4AHDMsMCwxMDRdyp8A8GMxOFJBOXdJdHlJdHFWQnh6bmN3MnhncVM3LUdmd1dDd1AxM0w1a294dTFiMlZ6MWRIeGQ2a3poRDdzMkFWaTF5ak9oYVlibHloVWdaV0lmVHk3WXVoNnpYVWNLWE5rIn0sMTU4NUYANAGoBDEzAahyngEUOTQ2ODk0Lp0BNDYwc0VxUzFvRmNnYUhhOv8AAVcENDmCVgAYMTI0MzQ2MTJXACxjV29vM3NKVzhLbjBOVwAANSX0JHdlYl9mdW5uZWwu6QENEnRkZWZpbml0aW9uIjoiUGxhdGZvcm1Mb2dpbldlYkYFNgBEGSMMLCJhYw0sTGNsaWVudF9vYXV0aF9kaWFsb2dfAUocX2ltcHJlc3MBUggsInMJCrBfa2V5IjoiMjJlMGY1OWYtYzIxOS00YTY1LTk4MTctYjdhYzhjZTFlYTkxIiwRmyxwYXlsb2FkIjoie1wRbw22CHZlcgFhJFwiOjEsXCJjYnQBCgQ1ODWrPDYsXCJnZHBfdHlwZVwiOlwFDRR2NFwifSIRwzZfAGECEGVyX2lkBS6OqACwXCIsXCJmaXJzdF9wYWludF90aW1lXCI6bnVsbCxcInJlc3BvbnNlX3N0YXJ0ER0IMzEwCbAoX2RlbHRhXCI6MH06DwIYNiwwLDM5N4IQAhQ3Mjk2MzAuDwI0NXE2ck81OFd5QnZ1eE02VwAMNzIsME1mAHK6AwTwRDJVTnNUMUtoUVdkNTdyRnBRVWl1VzNJQmZxbG1pMXBPWjVPSTc2RkU5dDdIUFdiNFc0dGh3dXdaaEJ3UkswUlNXNmU5c0qOAAQ4OAHkwo4A8FBMZmNtVnZDOGpfU2dsQk9wZ2lHWjFDVlctMVZ1ZHN3ZTVwaGNSaFNTTEJUWFZkcmdfb3dQX1dzajdJVFh1dUczNU4ycDlzTTFtbWhwQTlERThKmwAIMTAxAZxy5gMYMTI4MzM4My6BATQ2d0dWVjlaTVhXXzZOSEpYAAA1ZZB6VwAIOTIzNtsFNDZTQ1hxT3QtQXZGVW52OlcAoT2KVwBFLgAxLq0ANDQwVENHT1Itakp1WXdLOlYAopQEEDgxNTA1LlcANDZISEhlQV9Ea2lkTkNDSlcAiq0AFDEyOTEwMjJbATQ1b0stMVpETGR1dnVybeJXAAw0MTgyLq4AMDVHTHJJRGJSREFaZjXeVwAUMzM0NjY5LlcANDRsS1hOUVJ5endkYXhC1q4AEDcwODI1NgQBMGpoczFQQmZZaFZMMGc2VgAEODnm4APwSjlXSVYwQzgtQ25NWWg0a1RaWHhyRWVnQ2E0VV8tMG9iSzljV1JrYWtFYkdoSVBvTnFTRlpEZUptUU4wVEZSQzZNMjJiVXVSVXRId0qVAAQ5NWFLvucD8FYxWk0zMkJmTFNDZW9CUnlBUkZyY3hYeGg4WUx5ZnhLOXFoYUI3UW5YUHd6eDA4MlBUTzRDalZxNlNDLU5BNVl4V2s1dHpQMzNGa09BWXVvb2FyQzNqYyIy0QclNAQxMAWgyQAIOlBs6QEUT0F1dGhExdUAQ8XoQEV2ZW50c0xvZ2dlckNvbmZpEi0JEGFwcF9pwaEwMjk4MTI3MjUzNjU1OUUMAGUBMRxfbmFtZSI6IsEbCF9vbuUgJGlhbF9wYWdlIiwBdQRpbg1BlhoHMHN0ZXAiOiJyZWFkIiwJVwRzcOGHMG1pbGxpIjo5NzQsInPVcgQiOjYVBwwiZW5kxYsdGQwyMTMxPRcBDxAsMCwyMBLoCP4XAXoXAQxvdGFsCZD+DQFWDQEANf4NASkNEDE5M11d","trigger":"web_funnel_logging","send_method":"ajax","compression":"snappy_base64","snappy_ms":3},{"webSessionId":"cxndjz:f9lnvn:w6tpi2","posts":[["categorized_ods",{"2979":{"banzai":{"blue_messages_received":[23]}}},1584085352158,0,null]],"user":"100007853919504","app_id":"256281040558","compression":""},{"webSessionId":"cxndjz:f9lnvn:w6tpi2","posts":[["categorized_ods",{"2979":{"banzai":{"blue_messages_sent":[23]}}},1584085352158,0,null]],"user":"100007853919504","app_id":"256281040558","compression":""}]
+-----------------------------5374336481460188612463272906--
