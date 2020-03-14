@@ -1,0 +1,14 @@
+POST /search-api/adaptors/chains/rt_search_native_format HTTP/1.1
+Host: www.aviasales.ru
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: application/json, text/plain, */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 352
+DNT: 1
+Connection: close
+Referer: https://www.aviasales.ru/search/MOW1403JUB1
+Cookie: __cfduid=d052a0cbb3bf4c1ec4c5d7f280544410c1584216127; ab-live=false; auid=CtYgeV5tOD8rzoKfIsZbAg==; marker=duckduckgo_com; _sp_ses.dc27=*; _sp_id.dc27=b4ff5545-4a43-4c3b-aef0-62e7b80835ef.1584216130.1.1584216229.1584216130.5f271a71-9224-42ff-acb4-fc78f0a8f154; nuid=dc5d609d-200e-4384-a9bc-f4bb9b3577f8; search_init_stamp=1584216228794; last_search=MOW1403JUB1
+
+{"know_english":false,"trip_class":"Y","debug":false,"currency":"rub","passengers":{"adults":1,"children":0,"infants":0},"segments":[{"date":"2020-03-14","origin":"MOW","destination":"JUB"}],"market":"ru","locale":"ru","host":"www.aviasales.ru","auid":"CtYgeV5tOD8rzoKfIsZbAg==","marker":"duckduckgo_com","responsive":"desktop","challenge_result":"ok"}
