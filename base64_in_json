@@ -1,0 +1,16 @@
+POST /api-proxy/graphql HTTP/1.1
+Host: www.change.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.change.org/p/%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BC%D0%B3%D1%83-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4-%D0%BD%D0%B0-%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%83%D1%8E-%D1%84%D0%BE%D1%80%D0%BC%D1%83-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BC%D0%B3%D1%83?recruiter=1050673970&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition
+content-type: application/json
+X-CSRF-Token: 612b59adf565dc3af328abea4535f0b7
+Origin: https://www.change.org
+Content-Length: 322
+DNT: 1
+Connection: close
+Cookie: __cfduid=d38c9c538d93dac543d7ab64c4a0b057e1584229132; _change_session=52fedf561fb74c9e2d28383450d961b4; tracking_data=%7B%22user_uuid%22%3A%22f67ebc70-664c-11ea-9208-c58cb8e846e0%22%7D; _change_lang=%7B%22locale%22%3A%22ru-RU%22%2C%22countryCode%22%3A%22RU%22%7D; invite=%7B%22recruiter_id%22%3A1050673970%2C%22requested_at%22%3A%222020-03-14T23%3A41%3A33.692Z%22%7D; __cf_bm=352ccbb4346dbf687bc8af3b9f2f2900bad975ff-1584229132-1800-AexdFrER23Ap5oLdecdRhscI2VVWOFJ+TjT0VvwWFgxql7Z/CiUlGIGWW4tzMweVFmGhe4wxxrCJeNQtmtJBaXU=; __cfruid=5ac26e0239e6321b4ab974b76f89339668cd2040-1584229132; app_meta_petition_interrupt_view_count=1; app_meta_petition_interrupt_first_view_date=Tue%20Apr%2014%202020%2002:39:09%20GMT+0300%20(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)
+
+{"operationName":null,"variables":{"input":{"eventType":"IMPRESSION","promotionToken":"AVBldGl0aW9uAFTmPQEAAAAAXm1rrwfuSoJmODEzMWQ0OQ==","placement":"petition_footer","countryCode":"RU"}},"query":"mutation ($input: TrackPromotedEventInput!) {\n  trackPromotedEvent(input: $input) {\n    success\n    __typename\n  }\n}\n"}
