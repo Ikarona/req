@@ -1,0 +1,15 @@
+POST /api/graphqlbatch/ HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.facebook.com/directory/people/A-62653456-62690550
+Content-Type: application/x-www-form-urlencoded, application/x-www-form-urlencoded
+X-MSGR-Region: ASH
+Content-Length: 772
+DNT: 1
+Connection: close
+Cookie: fr=1kkIxLC7xTAm0NfIt.AWXGpghVv55pjAn5M4YjBDt92xI.Bd9__P.7z.AAA.0.0.BebSYE.AWV3gDU7; sb=z__3XUSHc1scVH-o291-JWEy; datr=z__3XbJzdv6nvpW54mYJI_MU; c_user=100007853919504; xs=11%3A1bfxDTe6cIBuRA%3A2%3A1576533969%3A1677%3A15736; presence=EDvF3EtimeF1584211694EuserFA21B07853919504A2EstateFDutF1584211694234CEchF_7bCC; spin=r.1001841193_b.trunk_t.1584211457_s.1_v.2_; wd=1920x927; act=1584211691675%2F0
+
+batch_name=MessengerGraphQLThreadlistFetcher&__user=100007853919504&__a=1&__dyn=7AgNe-4am2d2u6XUlg9odoKEW74jFwxwtkq2i5U4e2C3-7WyUdEbbxW4EeU52dwJw8acw9m4E9ohwoU8U5S0IpU2_CxS320y8467U2qxO0NUhwIUa9A1fzU2Hwai6UgKi8wl8G1uz8oxC2i1ezEmgK7o881eEbGwCxe1Ty8aU-7Eow4xw8K&__csr=&__req=8&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1&__rev=1001841193&__s=cpxruq%3A71vguj%3Aapef4v&__hsi=6804137407655118109-0&__comet_req=0&fb_dtsg=AQEh4Nyc5_ee%3AAQGmgxC08-J9&jazoest=21973&queries=%7B%22o0%22%3A%7B%22doc_id%22%3A%222916926601701415%22%2C%22query_params%22%3A%7B%22limit%22%3A10%2C%22before%22%3Anull%2C%22tags%22%3A[%22INBOX%22]%2C%22isWorkUser%22%3Afalse%2C%22includeDeliveryReceipts%22%3Atrue%2C%22includeSeqID%22%3Afalse%2C%22is_work_teamwork_not_putting_muted_in_unreads%22%3Afalse%7D%7D%7D
