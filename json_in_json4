@@ -1,0 +1,14 @@
+POST /api/tracking HTTP/1.1
+Host: www.patreon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.patreon.com/
+Content-Type: application/json;charset=UTF-8
+Content-Length: 171
+DNT: 1
+Connection: close
+Cookie: __cfduid=d1465cedd4903983a59f5a9c3074129a21584220877; patreon_device_id=7da19a6d-3cea-479a-9131-39c34c8443b9; __cf_bm=5d5c4836ad068df27e60da61abbe0f36736b3216-1584220877-1800-AabD3JQCRHBubJr1DkIga2km4pafH62YesdiJ3GQp9NjYkoZoZVunb6cFQ5xthg6t8fii6fbeRkWf1/NSyxGkUs=; patreon_locale_code=en-US
+
+[{"client_event_time":1584221005291,"event_type":"Index Page : Landed","event_properties":{"origin_pathname":"/"},"user_properties":{},"client_upload_time":1584221008292}]
