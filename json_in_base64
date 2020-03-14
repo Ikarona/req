@@ -1,0 +1,9 @@
+GET /message_part_real/?sid=YWVzX3NpZDp7ImFlc0tleUlkIjoiMTc4IiwiaG1hY0tleUlkIjoiMTc4IiwiaXZCYXNlNjQiOiJEcEJKWSs5SFdwVjIzYk1ORkI0QU1BPT0iLCJzaWRCYXNlNjQiOiJLM09VWlM3dERuWG9ZaWNSMGo0c1BDRUl0enVpMDVTbjM5cVJ1U2xaNjlmUzY5bmFGTFpQWS9kNnJqZGg1OWh2emdHSW5MWG9VT29zQnorN3BId3VyYkVkalhCRDVCbStUVHV3UjVKYnluZG1JVUVnSnhFYkFsV2tKTVpHRkhCbCIsImhtYWNCYXNlNjQiOiJ0TDJpMXBwWG9QOUhpZUliWlp5aHJ0Mm9KUW0xZkkwMFZRZzhMQkpvNENVPSJ9&thumb=y&no_disposition=y HTTP/1.1
+Host: webattach.mail.yandex.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: image/webp,*/*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://mail.yandex.ru/
+DNT: 1
+Connection: close
