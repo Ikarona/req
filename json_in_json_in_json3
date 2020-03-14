@@ -1,0 +1,16 @@
+POST /api/campaigns?include=categories&json-api-version=1.0 HTTP/1.1
+Host: www.patreon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.patreon.com/create/adult
+X-CSRF-Signature: uLvliDfSe5wdoTjI0gAlTPiKOsNEi0T6Ji-3aFmIOEI
+Content-Type: application/vnd.api+json
+Origin: https://www.patreon.com
+Content-Length: 195
+DNT: 1
+Connection: close
+Cookie: __cfduid=d1465cedd4903983a59f5a9c3074129a21584220877; patreon_device_id=7da19a6d-3cea-479a-9131-39c34c8443b9; __cf_bm=5d5c4836ad068df27e60da61abbe0f36736b3216-1584220877-1800-AabD3JQCRHBubJr1DkIga2km4pafH62YesdiJ3GQp9NjYkoZoZVunb6cFQ5xthg6t8fii6fbeRkWf1/NSyxGkUs=; patreon_locale_code=en-US; G_ENABLED_IDPS=google; fbm_130127590512253=base_domain=.patreon.com; fbsr_130127590512253=hvv9mK2e2efqTZ6eHiztL5QcVN1w_BytROi70PVtKVU.eyJ1c2VyX2lkIjoiMjU4MzU5NTc4ODU3ODg2MCIsImNvZGUiOiJBUUFidUhSdGEtN1JGdk5wWVBDZ3ZHVWo4QzNoblRfQVJiYlk4TU9hdVhWZU5hMURVTkNzbTFwYTFYWk4tNkhrN2ZwQk1xNVFzV2ZGVnh0NWQ5OXRoTmVzQzNlOWFDNE9XZi1rT0M1SFNRN3lRN2x2VnloQUl2RmhVTkt0eTFKYmpJQk1FMmtLTEJoOVBSck1mRFUxWXNaSVNqRjV3dk5WRFNtc0NGZ2NMU2ZOTEJpTXYxV3A4Ri15TVcyNDdBYk1LbFJucG5XMXltZ2sxYmk0TTBxVEIwaVA5VDd3RDZUQUVIRTRDS0g4UjFCeExKQkp5N2FRTmJBem1kUHVVWFZWdTZrellOZXljMDVKc1pwWXVQUTZOOGsxMXQyTjdJd1BnTEJ0Mk5WOEcyRFg3UWxIa2Mxd3Vqa0h5OW9udlpqMTdBbTZ6SGljeGlLWmpsbVJJVm5KYm11aSIsImFsZ29yaXRobSI6IkhNQUMtU0hBMjU2IiwiaXNzdWVkX2F0IjoxNTg0MjIxNDgyfQ; session_id=QwvteGdGdIxF8ijiApYAvsqvTngyxJPX-T2j35W9q0w
+
+{"data":{"type":"campaign","attributes":{"creation_name":"cool stuff"},"relationships":{"categories":{"data":[{"type":"category","id":"12"}]},"creator":{"data":{"type":"user","id":"31868627"}}}}}
