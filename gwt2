@@ -1,0 +1,16 @@
+POST /internal/settings/configService HTTP/1.1
+Host: www.snapengage.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/x-gwt-rpc; charset=utf-8
+X-GWT-Permutation: AB34A1412445F3BAE8FD08ED20FA0C14
+X-GWT-Module-Base: https://www.snapengage.com/settings/
+Content-Length: 252
+DNT: 1
+Connection: close
+Referer: https://www.snapengage.com/app/settings?msg=signup
+Cookie: __cfduid=d56e0a7b86a4214fb1c4cc5a6af08910d1584650134; JSESSIONID=0VLk_6aQDmFqhcMwmNEMGA; SnapABugRef=https%3A%2F%2Fwww.snapengage.com%2Fapp%2Fsettings%3Fmsg%3Dsignup%20https%3A%2F%2Fwww.snapengage.com%2Fsignup%3Fplan%3Dprofessional; SnapABugHistory=1#; SnapABugVisit=1#1584653482; SnapABugUserAlias=%23
+
+7|0|6|https://www.snapengage.com/settings/|D63F3873173A7CA695086721B560F9BC|com.timzon.snapabug.settings.interfaces.HelpWidgetBuilderService|getEnableInternationalPhoneCall|java.lang.String/2004016611|b6a9fdd0-f7cd-42d8-b39f-bfdce520a74f|1|2|3|4|1|5|6|
